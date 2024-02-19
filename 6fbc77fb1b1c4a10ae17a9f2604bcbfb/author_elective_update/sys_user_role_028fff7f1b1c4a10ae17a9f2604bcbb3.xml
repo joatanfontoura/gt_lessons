@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_srete_gt_lessons.authors_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>authors_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>joatan.fontoura</sys_created_by>
+        <sys_created_on>2024-02-19 00:57:01</sys_created_on>
+        <sys_id>028fff7f1b1c4a10ae17a9f2604bcbb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_srete_gt_lessons.authors_user</sys_name>
+        <sys_package display_value="Gatinhos Lessons" source="x_srete_gt_lessons">6fbc77fb1b1c4a10ae17a9f2604bcbfb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gatinhos Lessons">6fbc77fb1b1c4a10ae17a9f2604bcbfb</sys_scope>
+        <sys_update_name>sys_user_role_028fff7f1b1c4a10ae17a9f2604bcbb3</sys_update_name>
+        <sys_updated_by>joatan.fontoura</sys_updated_by>
+        <sys_updated_on>2024-02-19 00:57:01</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gatinhos Lessons">6fbc77fb1b1c4a10ae17a9f2604bcbfb</application>
+        <file_path/>
+        <instance_id>8c17c1b64f9bd6009211220f0310c796</instance_id>
+        <instance_name>scoretechbrdemo2</instance_name>
+        <name>sys_user_role_028fff7f1b1c4a10ae17a9f2604bcbb3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_srete_gt_lessons.authors_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>authors_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>joatan.fontoura</sys_created_by><sys_created_on>2024-02-19 00:57:01</sys_created_on><sys_id>028fff7f1b1c4a10ae17a9f2604bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_srete_gt_lessons.authors_user</sys_name><sys_package display_value="Gatinhos Lessons" source="x_srete_gt_lessons">6fbc77fb1b1c4a10ae17a9f2604bcbfb</sys_package><sys_policy/><sys_scope display_value="Gatinhos Lessons">6fbc77fb1b1c4a10ae17a9f2604bcbfb</sys_scope><sys_update_name>sys_user_role_028fff7f1b1c4a10ae17a9f2604bcbb3</sys_update_name><sys_updated_by>joatan.fontoura</sys_updated_by><sys_updated_on>2024-02-19 00:57:01</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-320495064</payload_hash>
+        <record_name>x_srete_gt_lessons.authors_user</record_name>
+        <reverted_from/>
+        <source>e7bcb7fb1b1c4a10ae17a9f2604bcb00</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan.fontoura</sys_created_by>
+        <sys_created_on>2024-02-19 00:57:01</sys_created_on>
+        <sys_id>028fff7f1b1c4a10ae17a9f2604bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dbeddc60e0000001</sys_recorded_at>
+        <sys_updated_by>joatan.fontoura</sys_updated_by>
+        <sys_updated_on>2024-02-19 00:57:01</sys_updated_on>
+        <type>Role</type>
+        <update_guid>468fff7fea1c4a102f4073855f00b4b5</update_guid>
+        <update_guid_history>468fff7fea1c4a102f4073855f00b4b5:-320495064</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_srete_gt_lessons.authors_user">6590c0cc1b2c4a10ae17a9f2604bcb8c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan.fontoura</sys_created_by>
+        <sys_created_on>2024-02-19 01:01:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>b88a8bafde6a4e13b6ec7a3dfa8fc589</sys_id>
+        <sys_metadata>028fff7f1b1c4a10ae17a9f2604bcbb3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_srete_gt_lessons.authors_user</sys_name>
+        <sys_package display_value="Gatinhos Lessons" source="x_srete_gt_lessons">6fbc77fb1b1c4a10ae17a9f2604bcbfb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gatinhos Lessons">6fbc77fb1b1c4a10ae17a9f2604bcbfb</sys_scope>
+        <sys_scope_delete display_value="">1c6c01086e45409c86874771bc3afbe4</sys_scope_delete>
+        <sys_update_name>sys_user_role_028fff7f1b1c4a10ae17a9f2604bcbb3</sys_update_name>
+        <sys_update_version display_value="sys_user_role_028fff7f1b1c4a10ae17a9f2604bcbb3">028fff7f1b1c4a10ae17a9f2604bcbb6</sys_update_version>
+        <sys_updated_by>joatan.fontoura</sys_updated_by>
+        <sys_updated_on>2024-02-19 01:01:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

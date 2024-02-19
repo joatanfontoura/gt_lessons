@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fd2d7ffb1b1c4a10ae17a9f2604bcbd8" label="Lessons" max_length="40" name="x_srete_gt_lessons_lessons" type="collection">
+        <element label="Author" max_length="32" name="author" reference="x_srete_gt_lessons_authors" type="reference"/>
+        <element label="Link" max_length="1024" name="link" type="url"/>
+        <element label="Modified" max_length="40" name="modified" type="boolean"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Published" max_length="40" name="published" type="boolean"/>
+        <element label="Text" max_length="500" name="text" type="string"/>
+        <index name="index">
+            <element name="author"/>
+        </index>
+    </element>
+</database>

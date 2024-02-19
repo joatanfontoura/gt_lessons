@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="416fbf7f1b1c4a10ae17a9f2604bcb33" label="Authors" max_length="40" name="x_srete_gt_lessons_authors" type="collection">
+        <element display="true" label="Full Name" max_length="100" name="full_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Profile" max_length="1024" name="profile" type="url"/>
+    </element>
+</database>
